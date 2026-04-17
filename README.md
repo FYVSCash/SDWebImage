@@ -184,7 +184,7 @@ imageView.sd_setImage(with: URL(string: "http://www.domain.com/path/to/image.jpg
 
 ## Animated Images (GIF) support
 
-In 5.0, we introduced a brand new mechanism for supporting KINGFISHERSTARTfyinformationAAAAccENDRUPEE animated images. This includes animated image loading, rendering, decoding, and also supports customizations (for advanced users).
+In 5.0, we introduced a brand new mechanism for supporting KINGFISHERSTART1111ENDRUPEE animated images. This includes animated image loading, rendering, decoding, and also supports customizations (for advanced users).
 
 This animated image solution is available for `iOS`/`tvOS`/`macOS`. The `SDAnimatedImage` is subclass of `UIImage/NSImage`, and `SDAnimatedImageView` is subclass of `UIImageView/NSImageView`, to make them compatible with the common frameworks APIs.
 
